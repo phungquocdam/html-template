@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*===============================
+             MEDIA
+================================*/
+@media only screen and (max-width:980px){
+}
+
+@media only screen and (max-width:768px){
+}
+
+@media only screen and (max-width:736px){
+}
+
+@media only screen and (max-width:480px){
+}
+
+@media only screen and (max-width:360px){
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait){
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape){
+
+}

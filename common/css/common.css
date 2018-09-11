@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* COMMON CSS Document */
+.content{margin:0 auto; max-width:980px; width:100%; padding:0 10px;}
+
+/*HEADER
+====================================*/
+header{}
+
+/*NAVIGATION
+====================================*/
+#gnav{}
+
+/*MAIN CONTENT
+====================================*/
+#main{}
+
+/*FOOTER
+===================================*/
+footer{}
+
+/*===============================
+             MEDIA
+================================*/
+@media only screen and (max-width:980px){
+
+}
+
+@media only screen and (max-width:768px){
+
+}
+
+@media only screen and (max-width:736px){
+
+}
+
+@media only screen and (max-width:480px){
+
+}
+
+@media only screen and (max-width:360px){
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait){
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape){
+
+}
